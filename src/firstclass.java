@@ -15,7 +15,7 @@ public class firstclass {
 
        String fullname=firstname+lastname;
 
-       
+
     return fullname;
     }
 

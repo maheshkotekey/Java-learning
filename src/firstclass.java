@@ -15,15 +15,11 @@ public class firstclass {
 
        String fullname=firstname+lastname;
 
-
+        System.out.println(fullname);
     return fullname;
     }
-
-
-
-
-
     public static void main(String[] args){
-        System.out.println("This is my first project");
+        System.out.println("This is my first class");
     }
+
 }

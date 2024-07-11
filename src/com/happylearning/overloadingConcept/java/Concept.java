@@ -1,8 +1,6 @@
 package com.happylearning.overloadingConcept.java;
 
 public class Concept {
-
-
     public int learning(int e){
         System.out.println(e);
         return 0;
